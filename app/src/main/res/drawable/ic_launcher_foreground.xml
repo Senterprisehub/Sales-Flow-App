@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bar 1 (Left, Small) -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M28,56 h10 v24 h-10 z" />
+    <!-- Bar 2 (Middle, Medium) -->
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M44,44 h10 v36 h-10 z" />
+    <!-- Bar 3 (Right, High) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M60,32 h10 v48 h-10 z" />
+    <!-- Upward Trend Line & Arrow -->
+    <path
+        android:strokeColor="#34D399"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M26,52 L44,40 L58,46 L76,26" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M78,24 L68,25 L75,32 z" />
+    <!-- Base line -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M24,80 L84,80" />
+    <!-- Rupee symbol floating circle badge -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M78,54 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M74,50 h8 M74,53 h8 M76,50 v8 M76,53 a2.5,2.5 0 0,0 2.5,2.5 M76,55.5 L80.5,60" />
+</vector>

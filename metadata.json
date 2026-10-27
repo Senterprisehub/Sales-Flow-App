@@ -1,0 +1,7 @@
+{
+  "name": "Sales Flow",
+  "description": "Sales target and achievement tracker with comprehensive yearly analysis, custom visual dashboards, party & product metrics, and CSV sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
